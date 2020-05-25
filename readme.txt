@@ -1,1 +1,2 @@
-git is a good thing
+git is a sss verygood thing
+git is a free software
